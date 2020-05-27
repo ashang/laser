@@ -2,8 +2,6 @@
 
 ---
 
-Example [Gatsby] website using GitLab Pages.
-
 Learn more about GitLab Pages at https://pages.gitlab.io and the official
 documentation https://docs.gitlab.com/ce/user/project/pages/.
 
@@ -43,16 +41,6 @@ pages:
   - master
 ```
 
-## Building locally
-
-To work locally with this project, you'll have to follow the steps below:
-
-1. Fork, clone or download this project
-1. [Install] Gatsby CLI
-1. Generate and preview the website with hot-reloading: `gatsby develop`
-1. Add content
-
-Read more at Gatsby's [documentation].
 
 ## Did you fork this project?
 
@@ -69,4 +57,7 @@ unless you want to contribute back to the upstream project.
 
 ----
 
-Forked from https://github.com/gatsbyjs/gatsby-starter-default
+- [[https://github.com/ashang/laser/blob/master/src/images/snowflake-bentley-75.jpg | alt=Snowflake Bentley]]
+
+- [[src/images/snowflake-bentley-75.jpg|alt=Snowflake Bentley]]
+
