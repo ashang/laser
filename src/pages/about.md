@@ -10,11 +10,11 @@ C
   <img alt="Veloren" src="src/images/snowflake-bentley-75.jpg" width="200" height="400" />
 </p>
 
-![Bentley image|33x555, 30%](/src/images/snowflake-bentley-75.jpg)
+![Bentley image|33x555](/src/images/snowflake-bentley-75.jpg)
 
 lll
 
-![Bentley image|33x55, 30%](src/images/snowflake-bentley-75.jpg)
+![Bentley image|30%](src/images/snowflake-bentley-75.jpg)
 
 oo
 
@@ -23,17 +23,9 @@ oo
 p
 
 <p align="center">
-  <img alt="Veloren" src="src/images/snowflake-bentley-75.jpg" width="200" height="400" />
+  <img alt="Veloren" src="../images/snowflake-bentley-75.jpg" width="200" height="400" />
 </p>
 
-s
-<p align="left">
-  <img alt="Veloren" src="../images/snowflake-bentley-75.jpg" width="2000" height="400" />
-</p>
-t
-<p align="center">
-  <img alt="Veloren" src="/src/images/snowflake-bentley-75.jpg" width="200" height="4000" />
-</p>
 
 
 - Copy `<img>` in browser DevTools. Replace `![](url)` to `<img>`. Add width(and height) attr.
