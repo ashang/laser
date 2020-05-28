@@ -3,32 +3,44 @@ title: About
 featuredImage: ../images/snowflake-bentley-75.jpg
 ---
 
-C
-![Bentley image](/src/images/snowflake-bentley-75.jpg "Bentley ")
+![](../images/snowflake-bentley-75.jpg)
 
-<p align="center">
-  <img alt="Veloren" src="src/images/snowflake-bentley-75.jpg" width="200" height="400" />
-</p>
+\![](../images/snowflake-bentley-03.jpg)
+[](../images/snowflake-bentley-05.jpg)
+![](../images/snowflake-bentley-07.jpg)
 
-![Bentley image|33x555](/src/images/snowflake-bentley-75.jpg)
+![](../images/snowflake-bentley-08.jpg)
 
-lll
+![](../images/snowflake-bentley-09.jpg)
 
-![Bentley image|30%](src/images/snowflake-bentley-75.jpg)
+![](../images/snowflake-bentley-12.jpg)
 
-oo
+![](../images/snowflake-bentley-13.jpg)
 
-![Bentley image|33x55, 230%](/src/images/snowflake-bentley-75.jpg)
+![](../images/snowflake-bentley-16.jpg)
 
-p
+![](../images/snowflake-bentley-18.jpg)
 
-<p align="center">
-  <img alt="Veloren" src="../images/snowflake-bentley-75.jpg" width="200" height="400" />
-</p>
+![](../images/snowflake-bentley-20.jpg)
 
+![](../images/snowflake-bentley-21.jpg)
 
+![](../images/snowflake-bentley-23.jpg)
 
-- Copy `<img>` in browser DevTools. Replace `![](url)` to `<img>`. Add width(and height) attr.
-  - `<img src="https://camo.githubusercontent.com/..." data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />`
-  - <img src="https://camo.githubusercontent.com/331400aee821efda2e36ee9b3bc8bce93b975109/68747470733a2f2f6779617a6f2e636f6d2f65623563353734316236613961313663363932313730613431613439633835382e706e67" alt="" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
+![](../images/snowflake-bentley-24.jpg)
 
+![](../images/snowflake-bentley-25.jpg)
+
+![](../images/snowflake-bentley-26.jpg)
+
+![](../images/snowflake-bentley-27.jpg)
+
+![](../images/snowflake-bentley-28.jpg)
+
+![](../images/snowflake-bentley-33.jpg)
+
+![](../images/snowflake-bentley-38.jpg)
+
+![](../images/snowflake-bentley-39.jpg)
+![](../images/snowflake-bentley-40.jpg)
+![](../images/snowflake-bentley-75.jpg)
